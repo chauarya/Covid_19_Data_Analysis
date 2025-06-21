@@ -1,7 +1,8 @@
 
 
 📊 COVID-19 Data Analysis Project
-https://images.unsplash.com/photo-1588590560438-5e27fe3f6b71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80
+![image](https://github.com/user-attachments/assets/0221fc55-73c7-488c-9afe-aaffecc9bb5b)
+
 
 This project demonstrates comprehensive data analysis skills through two distinct sections:
 Data Cleaning and ETL using corrupted public health datasets
