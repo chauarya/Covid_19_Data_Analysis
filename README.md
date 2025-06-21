@@ -14,7 +14,7 @@ Skills Demonstrated
 Datasets
 Output Samples
 Dependencies
-License
+
 
 🧩 Project Overview
 The project is divided into two main sections:
@@ -67,7 +67,6 @@ Our World in Data COVID Dataset
 
 📸 Output Samples
 Data Cleaning Visualization
-https://via.placeholder.com/600x400/4a86e8/ffffff?text=Disease+Cases+Visualization
 
 📦 Dependencies
 pandas==1.5.3
@@ -78,7 +77,3 @@ scikit-learn==1.2.2
 scipy==1.10.0
 fitter==1.5.1
 
-📜 License
-This project uses datasets under:
-Nova Scotia Open Government Licence
-Creative Commons BY License
